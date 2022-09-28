@@ -29,7 +29,7 @@ void ReadInput()
             Console.WriteLine("Skönt. Då slipper vi ringa och klaga på att varorna inte levereras i tid.");
             break;
         case 2:
-            Console.WriteLine("Hellre mer i lager än för lite...");
+            Console.WriteLine("Hellre mer i lager än för lite... Så hamnar man ¨på lyxfällan dock.");
             break;
         case 3:
             Console.WriteLine("Vad väntar du på? Börja inventera hyllorna!");
